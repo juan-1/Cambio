@@ -1,4 +1,4 @@
-#TAILS#
+# TAILS #
 ## _Sajolida_ ##
 Hola buenos días yo me llamo Sajolida trabajo para Tails y voy a hablar un poquito de Tails pero sobretodo voy a hablar de inseguridad entonces voy a hablar un poquito de lo que es Tails sin entrar mucho en detalle y luego voy a compartir con vosotros algunos de los métodos y de las recetas que estamos usando en  tails para asegurarnos que nuestro programa sea cada vez más fácil de usar, es lo que llamamos usabilidad porque pienso que aquí hay alguien que está desarrollando software libre y pienso que esto es relevante para ayudarlos en vuestra labor. Comparti algunas reflexiones sobre una investigación de usuario qué son las prácticas que llevamos a cabo a la hora de entender qué necesitan los usuarios para responder sus necesidades y saber realmente qué estás necesidades están cumplidas y que la gente consiga usar nuestros programas, porque pienso que hay algunos conflictos algunos roces con la cultura que yo veo con respecto al software libre. 
 
